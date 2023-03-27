@@ -1,6 +1,6 @@
 <!----------------------------------- Banner Section ------------------------------------>
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://hanumat-sharan.github.io)
-<h1 align="center">Hi 👋, I'm Hanumat Sharan</h1>
+<h1 align="center">Hi 👋, I'm Pawan kumar</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <div align="center">
@@ -15,11 +15,11 @@
 
 
 <br>🌱 I’m currently learning MERN Stack.<br>
-<br>📄 Check out my [Resume](https://drive.google.com/uc?id=1XQsL2a-Jw_dGKsCm4KvWWunVTALaojUW&export=download)<br>
+<br>📄 Check out my [Resume]([https://drive.google.com/uc?id=1XQsL2a-Jw_dGKsCm4KvWWunVTALaojUW&export=download](https://drive.google.com/drive/folders/1B12RLasgVwzbNCriqieZ4OkKRGDA0fkZ))<br>
 <br>💻 Know more about me Portfilio(https://hanumat-sharan.github.io/)<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/HANUMAT-SHARAN?tab=repositories)<br>
+<br>💻 All of my projects are available at My [Github Repositories]([https://github.com/HANUMAT-SHARAN?tab=repositories](https://github.com/pawan62003?tab=repositories))<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me deotadayal27@gmail.com<br>
+<br>📫 How to reach me pawan9thh@gmail.com<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HANUMAT-SHARAN&label=Profile%20views&color=0e75b6&style=flat" alt="Hanumat_Sharan" /> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
