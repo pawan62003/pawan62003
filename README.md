@@ -26,7 +26,7 @@
 <h2 align="center">📱 Connect with me</h2>
 <br />
 <p align="center">
-      <a href="https://www.linkedin.com/in/hanumat-sharan-168548258/" target="_blank">
+      <a href="[https://www.linkedin.com/in/hanumat-sharan-168548258/](https://www.linkedin.com/in/pawan-kumar-b17b2a243/)" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
 </p>
 <br />
@@ -107,6 +107,6 @@
 
 
 <!---
-HANUMAT-SHARAN/HANUMAT-SHARAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pawan kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
