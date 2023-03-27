@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawan62003" alt="pawan62003" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [pawan62003.github.io](pawan62003.github.io)
+- 👨‍💻 All of my projects are available at [https://pawan62003.github.io/](https://pawan62003.github.io/)
 
 - 💬 Ask me about **javascript,react,css,html,redux,react-redux,axios,chakra-Ui**
 
