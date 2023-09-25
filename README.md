@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/pawan-kumar-b17b2a243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pawan-kumar-b17b2a243/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/pawan-kumar-b17b2a243/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="in/pawan-kumar-b17b2a243/" height="30" width="140" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
